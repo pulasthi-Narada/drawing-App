@@ -3,7 +3,7 @@ This project is a drawing app. Build using JavaScript, Canvas element in HTML an
 
 
 Live demo of this project
-https://pulasthi-nanayakkara.github.io/MovieApp/
+https://pulasthi-nanayakkara.github.io/drawing-App/
 
                                                reference
 10 JavaScript Projects in 10 Hours - Coding Challenge
