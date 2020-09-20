@@ -9,7 +9,7 @@ https://pulasthi-nanayakkara.github.io/MovieApp/
 10 JavaScript Projects in 10 Hours - Coding Challenge
 https://youtu.be/dtKciwk_si4
 
-HTML5 Canvas drawing application on Github pages (beginner-friendly tutorial)
+HTML5 Canvas drawing application on Github pages (beginner-friendly tutorial)<br/>
 https://levelup.gitconnected.com/html5-canvas-drawing-application-on-github-pages-beginner-friendly-tutorial-5d50b99adb6a
 
 
